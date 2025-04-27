@@ -1,2 +1,2 @@
 # bubble
-Bubbole sort DSA with Python
+Bubble sort DSA with Python
